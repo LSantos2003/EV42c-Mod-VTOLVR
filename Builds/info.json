@@ -1,0 +1,18 @@
+{
+  "name": "EV42c",
+  "description": "Adds a big ol radar dish to the AV-42C\r\n\r\nWork in progress mod",
+  "dll_file": "EV42C.dll",
+  "last_edit": 637646695702397464,
+  "pub_id": "",
+  "json_version": "",
+  "version": "1.0.0",
+  "tagline": "Eyes in the sky",
+  "repository": "",
+  "is_public": true,
+  "unlisted": false,
+  "preview_image": "preview.png",
+  "web_preview_image": "",
+  "dependencies": [],
+  "mod_dependencies": null,
+  "ContentType": 0
+}
